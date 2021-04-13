@@ -1,0 +1,6 @@
+<launch>
+    
+    <node pkg="key_controll" name="input"           type="input.py" output="screen"/>
+    <node pkg="key_controll" name="controller"      type="controller.py" output="screen"/>
+    
+</launch>

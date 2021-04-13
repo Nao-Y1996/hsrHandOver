@@ -1,0 +1,8 @@
+prefix=/home/naoyamada/CW/catkin_ws3/install
+
+Name: collect_sensor_data
+Description: Description of collect_sensor_data
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/naoyamada/CW/catkin_ws3/install
+
+Name: hsr_handing
+Description: Description of hsr_handing
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

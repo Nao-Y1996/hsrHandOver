@@ -1,0 +1,142 @@
+<hsrb>~/catkin_ws3$ roslaunch hsr_handing handing.launch
+... logging to /home/naoyamada/.ros/log/20200105-024511_6470442a-2f65-11ea-838b-00306444518b/roslaunch-naoyamada-MS-7A34-16986.log
+Checking log directory for disk usage. This may take awhile.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+
+started roslaunch server http://192.168.1.48:43955/
+
+SUMMARY
+========
+
+PARAMETERS
+ * /rosdistro: kinetic
+ * /rosversion: 1.12.14
+
+NODES
+  /
+    Handing (hsr_handing/Handing.py)
+    Tracking_Pub (hsr_handing/Tracking_Pub.py)
+    fuzzy (hsr_handing/fuzzy.py)
+    gripper (hsr_handing/gripper2.py)
+    input (hsr_handing/input.py)
+
+ROS_MASTER_URI=http://hsrb.local:11311
+
+/opt/ros/kinetic/lib/python2.7/dist-packages/roslib/packages.py:451: UnicodeWarning: Unicode equal comparison failed to convert both arguments to Unicode - interpreting them as being unequal
+  if resource_name in files:
+process[Tracking_Pub-1]: started with pid [16995]
+process[gripper-2]: started with pid [16996]
+process[Handing-3]: started with pid [16997]
+process[input-4]: started with pid [16998]
+process[fuzzy-5]: started with pid [16999]
+Enter the  command --->> g
+Enter the  command --->> h
+[-0.5, 0.0, -0.5, 3.14, -1.57, -0.0]
+Enter the  command --->> (fy, fz) = -1.23602560435, -1.88655727954
+theta = 33.2318240664
+F = [1.8865572795370833, 1.2360256043545634]
+[0. 0. 0. 0. 0. 0. 0. 1. 0.]
+[0.         0.         0.         0.         0.         0.
+ 0.         0.82401707 0.        ]
+next ----> x=-0.4,y=0.1,ek=0.0
+
+Enter the  command --->> g
+Enter the  command --->> h
+[-0.4, 0.1, -0.5, 3.14, -1.57, 0.0]
+Enter the  command --->> (fy, fz) = -2.1311176766, -0.360098152081
+theta = 80.4092378626
+F = [0.3600981520807116, 2.1311176766005286]
+[0.         0.         0.         0.2798037  0.         0.
+ 0.24006543 0.         0.        ]
+[0 0 0 0 0 0 0 0 1]
+next ----> x=-0.376910974262,y=0.25,ek=0.0
+
+Enter the  command --->> g
+Enter the  command --->> h
+[-0.3769109742617036, 0.25, -0.5, 3.14, -1.57, 0.0]
+Enter the  command --->> (fy, fz) = -3.06997142206, -0.0830436170956
+theta = 88.4505104076
+F = [0.08304361709560434, 3.069971422058436]
+[0.         0.         0.         0.         0.         0.06997142]
+next ----> x=-0.376910974262,y=0.25,ek=44.6907080202
+
+Enter the  command --->> g
+Enter the  command --->> h
+[-0.3769109742617036, 0.25, -0.5, 3.14, -1.57, 0.78]
+Enter the  command --->> (fy, fz) = 1.16970444534, -0.795208032575
+theta = 304.209304423
+F = [1.3879532188469506, -0.27230528237106827]
+[0.         0.         0.         0.         0.         0.
+ 0.         0.         0.92530215]
+[0.18153685 0.         0.         0.45538944 0.         0.
+ 0.         0.         0.        ]
+next ----> x=-0.226910974262,y=0.20724697087,ek=44.6907080202
+
+Enter the  command --->> g
+Enter the  command --->> h
+[-0.22691097426170362, 0.20724697087043276, -0.5, 3.14, -1.57, 0.78]
+Enter the  command --->> (fy, fz) = -0.727601794792, -0.656771798913
+theta = 47.9289233988
+F = [-0.044799404418738274, 0.9791560554860753]
+[0.02986627 0.         0.         0.91040119 0.         0.
+ 0.         0.         0.        ]
+[0.        0.        0.        0.        0.        0.        0.
+ 0.        0.6527707]
+next ----> x=-0.231675512682,y=0.35724697087,ek=44.6907080202
+
+Enter the  command --->> g
+Enter the  command --->> h
+[-0.23167551268163494, 0.3572469708704328, -0.5, 3.14, -1.57, 0.78]
+Enter the  command --->> (fy, fz) = -1.71158153848, -0.805163165701
+theta = 64.8067416096
+F = [-0.6313186754927622, 1.7830411706550293]
+[0.35264816 0.         0.         0.         0.         0.
+ 0.         0.         0.        ]
+[0 0 0 0 0 0 0 0 1]
+next ----> x=-0.381675512682,y=0.50724697087,ek=44.6907080202
+
+Enter the  command --->> g
+Enter the  command --->> h
+[-0.3816755126816349, 0.5072469708704328, -0.5, 3.14, -1.57, 0.78]
+Enter the  command --->> (fy, fz) = 6.28467321319, 3.17114962544
+theta = 243.225189614
+F = [2.1654681274457053, -6.698063536020381]
+[0 0 1 0 0 0]
+next ----> x=-0.381675512682,y=0.50724697087,ek=29.7938053468
+
+Enter the  command --->> g
+Enter the  command --->> h
+[-0.3816755126816349, 0.5072469708704328, -0.5, 3.14, -1.57, 0.52]
+Enter the  command --->> (fy, fz) = 7.89456128191, 2.78548945858
+theta = 250.565297966
+F = [1.5053495210295549, -8.23510608172644]
+[1 0 0 0 0 0]
+next ----> x=-0.381675512682,y=0.50724697087,ek=-14.8969026734
+
+Enter the  command --->> g
+Enter the  command --->> h
+[-0.3816755126816349, 0.5072469708704328, -0.5, 3.14, -1.57, -0.26]
+Enter the  command --->> (fy, fz) = 0.191403953463, -1.3213592223
+theta = 351.757815013
+F = [1.2277420759584416, -0.5246666205189542]
+[0.         0.         0.         0.         0.         0.
+ 0.32460032 0.         0.        ]
+[0. 0. 0. 0. 0. 0. 0. 0. 0.]
+/home/naoyamada/catkin_ws3/src/hsr_handing/script/fuzzy.py:117: RuntimeWarning: invalid value encountered in double_scalars
+  return np.dot(w_vec, then_vec)/np.sum(w_vec)
+next ----> x=-0.331675512682,y=nan,ek=-14.8969026734
+^C[fuzzy-5] killing on exit
+[input-4] killing on exit
+[Handing-3] killing on exit
+[gripper-2] killing on exit
+[Tracking_Pub-1] killing on exit
+[input-4] escalating to SIGTERM
+[input-4] escalating to SIGKILL
+Shutdown errors:
+ * process[input-4, pid 16998]: required SIGKILL. May still be running.
+shutting down processing monitor...
+... shutting down processing monitor complete
+done
+<hsrb>~/catkin_ws3$ 
+

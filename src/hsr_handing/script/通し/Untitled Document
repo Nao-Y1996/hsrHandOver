@@ -1,0 +1,176 @@
+<hsrb>~/catkin_ws3$ roslaunch hsr_handing handing.launch
+... logging to /home/kubotalab/.ros/log/20200124-002931_96d43b3a-3e40-11ea-8e1e-00306444518b/roslaunch-kubotalab-123-5535.log
+Checking log directory for disk usage. This may take awhile.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+
+started roslaunch server http://192.168.1.32:40635/
+
+SUMMARY
+========
+
+PARAMETERS
+ * /rosdistro: kinetic
+ * /rosversion: 1.12.14
+
+NODES
+  /
+    Handing (hsr_handing/Handing.py)
+    fuzzy (hsr_handing/fuzzy.py)
+    gripper (hsr_handing/gripper2.py)
+    input (hsr_handing/input.py)
+
+ROS_MASTER_URI=http://hsrb.local:11311
+
+/opt/ros/kinetic/lib/python2.7/dist-packages/roslib/packages.py:451: UnicodeWarning: Unicode equal comparison failed to convert both arguments to Unicode - interpreting them as being unequal
+  if resource_name in files:
+process[gripper-1]: started with pid [5545]
+process[Handing-2]: started with pid [5546]
+process[input-3]: started with pid [5547]
+process[fuzzy-4]: started with pid [5548]
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---sitting
+now--> x,y,ek=-0.147,0.3,0.78
+Enter the  command --->>    
+0
+力書き込み時---sitting
+Fuzzy時---sitting
+---------Fuzzy----------
+f = 0.656
+theta = 270.0
+(fx, fy, ek) = (-0.0, -0.656, 0.78)
+(FX,FY) = (0.461,-0.466)
+(old_FX,old_FY) = (0.0,0.0)
+next--> x,y,ek=-0.068,0.218,44.691
+
+Enter the  command --->> h
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.29,0.424,0.0
+Enter the  command --->>    
+2
+力書き込み時---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 0.162
+theta = 0.0
+(fx, fy, ek) = (0.162, -0.0, 0.0)
+(FX,FY) = (0.162,0.0)
+(old_FX,old_FY) = (0.0,0.0)
+next--> x,y,ek=-0.276,0.424,0.0
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.434,-0.222,-0.78
+Enter the  command --->>    
+1
+力書き込み時---standing
+Fuzzy時---standing
+---------Fuzzy----------
+f = 0.0
+theta = 0.0
+(fx, fy, ek) = (-0.0, -0.0, -0.78)
+(FX,FY) = (0.0,-0.0)
+(old_FX,old_FY) = (0.0,0.0)
+next--> x,y,ek=-0.434,-0.222,-44.691
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.29,0.424,0.0
+Enter the  command --->>    
+2
+力書き込み時---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 1.168
+theta = 241.87
+(fx, fy, ek) = (-0.551, -1.03, 0.0)
+(FX,FY) = (-0.551,-1.03)
+(old_FX,old_FY) = (0.162,0.0)
+next--> x,y,ek=-0.39,0.324,0.0
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.434,-0.222,-0.78
+Enter the  command --->> g   
+1
+力書き込み時---standing
+Fuzzy時---standing
+---------Fuzzy----------
+f = 0.336
+theta = 43.934
+(fx, fy, ek) = (0.242, 0.233, -0.78)
+(FX,FY) = (0.336,-0.004)
+(old_FX,old_FY) = (0.0,-0.0)
+next--> x,y,ek=-0.393,-0.223,-44.691
+
+Enter the  command --->> h
+手渡し時---sitting
+now--> x,y,ek=-0.147,0.3,0.78
+Enter the  command --->>    
+0
+力書き込み時---sitting
+Fuzzy時---sitting
+---------Fuzzy----------
+f = 0.724
+theta = 224.757
+(fx, fy, ek) = (-0.514, -0.51, 0.78)
+(FX,FY) = (-0.007,-0.724)
+(old_FX,old_FY) = (0.461,-0.466)
+next--> x,y,ek=-0.147,0.15,44.691
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---sitting
+now--> x,y,ek=-0.147,0.3,0.78
+Enter the  command --->>    
+0
+力書き込み時---sitting
+Fuzzy時---sitting
+---------Fuzzy----------
+f = 0.401
+theta = 180.0
+(fx, fy, ek) = (-0.401, -0.0, 0.78)
+(FX,FY) = (-0.285,-0.282)
+(old_FX,old_FY) = (-0.007,-0.724)
+next--> x,y,ek=-0.178,0.255,44.691
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.434,-0.222,-0.78
+Enter the  command --->>    
+1
+力書き込み時---standing
+Fuzzy時---standing
+---------Fuzzy----------
+f = 2.682
+theta = 61.576
+(fx, fy, ek) = (1.276, 2.358, -0.78)
+(FX,FY) = (2.566,0.779)
+(old_FX,old_FY) = (0.336,-0.004)
+next--> x,y,ek=-0.434,-0.222,0.0
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.29,0.424,0.0
+Enter the  command --->>    
+2
+力書き込み時---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 2.242
+theta = 258.795
+(fx, fy, ek) = (-0.436, -2.2, 0.0)
+(FX,FY) = (-0.436,-2.2)
+(old_FX,old_FY) = (-0.551,-1.03)
+next--> x,y,ek=-0.29,0.424,-44.691
+
+Enter the  command --->> 
+

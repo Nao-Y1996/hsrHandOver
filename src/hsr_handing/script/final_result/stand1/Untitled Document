@@ -1,0 +1,255 @@
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---sitting
+now--> x,y,ek=-0.147,0.3,0.78
+Enter the  command --->>    
+0
+力書き込み時---sitting
+Fuzzy時---sitting
+---------Fuzzy----------
+f = 0.693
+theta = 175.536
+(fx, fy, ek) = (-0.691, 0.054, 0.78)
+(FX,FY) = (-0.529,-0.448)
+(old_FX,old_FY) = (-0.25,1.154)
+next--> x,y,ek=-0.297,0.3,44.691
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.5,0.0,0.0
+Enter the  command --->>    
+1
+力書き込み時---standing
+Fuzzy時---standing
+---------Fuzzy----------
+f = 0.205
+theta = 182.729
+(fx, fy, ek) = (-0.205, -0.01, 0.0)
+(FX,FY) = (-0.205,-0.01)
+(old_FX,old_FY) = (0.0,0.0)
+next--> x,y,ek=-0.519,-0.001,0.0
+ 
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.519,-0.001,0.0
+Enter the  command --->>    
+1
+力書き込み時---standing
+Fuzzy時---standing
+---------Fuzzy----------
+f = 0.044
+theta = 206.681
+(fx, fy, ek) = (-0.04, -0.02, 0.0)
+(FX,FY) = (-0.04,-0.02)
+(old_FX,old_FY) = (-0.205,-0.01)
+next--> x,y,ek=-0.523,-0.002,0.0
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.523,-0.002,0.0
+Enter the  command --->>    
+1
+力書き込み時---standing
+Fuzzy時---standing
+---------Fuzzy----------
+f = 2.071
+theta = 268.957
+(fx, fy, ek) = (-0.038, -2.071, 0.0)
+(FX,FY) = (-0.038,-2.071)
+(old_FX,old_FY) = (-0.04,-0.02)
+next--> x,y,ek=-0.523,-0.002,-44.691
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.523,-0.002,-0.78
+Enter the  command --->>    
+1
+力書き込み時---standing
+Fuzzy時---standing
+---------Fuzzy----------
+f = 0.105
+theta = 319.668
+(fx, fy, ek) = (0.08, -0.068, -0.78)
+(FX,FY) = (0.009,-0.105)
+(old_FX,old_FY) = (-0.038,-2.071)
+next--> x,y,ek=-0.522,-0.014,-44.691
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.522,-0.014,-0.78
+Enter the  command --->>    
+1
+力書き込み時---standing
+Fuzzy時---standing
+---------Fuzzy----------
+f = 2.581
+theta = 269.892
+(fx, fy, ek) = (-0.005, -2.581, -0.78)
+(FX,FY) = (-1.819,-1.832)
+(old_FX,old_FY) = (0.009,-0.105)
+next--> x,y,ek=-0.522,-0.014,-89.381
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.522,-0.014,-1.56
+Enter the  command --->>    
+1
+力書き込み時---standing
+Fuzzy時---standing
+---------Fuzzy----------
+f = 4.0
+theta = 47.394
+(fx, fy, ek) = (2.708, 2.944, -1.56)
+(FX,FY) = (2.973,-2.676)
+(old_FX,old_FY) = (-1.819,-1.832)
+next--> x,y,ek=-0.522,-0.014,-44.691
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.522,-0.014,-0.78
+Enter the  command --->>    
+1
+力書き込み時---standing
+Fuzzy時---standing
+---------Fuzzy----------
+f = 0.099
+theta = 326.536
+(fx, fy, ek) = (0.082, -0.054, -0.78)
+(FX,FY) = (0.02,-0.096)
+(old_FX,old_FY) = (2.973,-2.676)
+next--> x,y,ek=-0.52,-0.025,-44.691
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.52,-0.025,-0.78
+Enter the  command --->>    
+1
+力書き込み時---standing
+Fuzzy時---standing
+---------Fuzzy----------
+f = 0.345
+theta = 317.535
+(fx, fy, ek) = (0.255, -0.233, -0.78)
+(FX,FY) = (0.017,-0.345)
+(old_FX,old_FY) = (0.02,-0.096)
+next--> x,y,ek=-0.519,-0.072,-44.691
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.519,-0.072,-0.78
+Enter the  command --->>    
+1
+力書き込み時---standing
+Fuzzy時---standing
+---------Fuzzy----------
+f = 2.998
+theta = 312.403
+(fx, fy, ek) = (2.021, -2.213, -0.78)
+(FX,FY) = (-0.12,-2.995)
+(old_FX,old_FY) = (0.017,-0.345)
+next--> x,y,ek=-0.519,-0.072,-89.381
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.519,-0.072,-1.56
+Enter the  command --->> [ERROR] [1579838016.996054]: bad callback: <function gripper_operating at 0x7f0959d25b18>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/home/kubotalab/catkin_ws3/src/hsr_handing/script/gripper2.py", line 254, in gripper_operating
+    whole_body.move_to_joint_positions({'head_tilt_joint': 0.15})
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/hsrb_interface/joint_group.py", line 476, in move_to_joint_positions
+    self._change_joint_state(goal_state)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/hsrb_interface/joint_group.py", line 422, in _change_joint_state
+    res = plan_service.call(req)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_service.py", line 495, in call
+    service_uri = self._get_service_uri(request)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_service.py", line 460, in _get_service_uri
+    raise ServiceException("unable to contact master")
+ServiceException: unable to contact master
+
+^C[fuzzy-4] killing on exit
+[input-3] killing on exit
+[Handing-2] killing on exit
+[gripper-1] killing on exit
+[input-3] escalating to SIGTERM
+[input-3] escalating to SIGKILL
+Shutdown errors:
+ * process[input-3, pid 25321]: required SIGKILL. May still be running.
+shutting down processing monitor...
+... shutting down processing monitor complete
+done
+<hsrb>~/catkin_ws3$ roslaunch hsr_handing handing.launch
+... logging to /home/kubotalab/.ros/log/20200124-002931_96d43b3a-3e40-11ea-8e1e-00306444518b/roslaunch-kubotalab-123-26535.log
+Checking log directory for disk usage. This may take awhile.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+
+started roslaunch server http://192.168.1.32:35635/
+
+SUMMARY
+========
+
+PARAMETERS
+ * /rosdistro: kinetic
+ * /rosversion: 1.12.14
+
+NODES
+  /
+    Handing (hsr_handing/Handing.py)
+    fuzzy (hsr_handing/fuzzy.py)
+    gripper (hsr_handing/gripper2.py)
+    input (hsr_handing/input.py)
+
+ROS_MASTER_URI=http://hsrb.local:11311
+
+/opt/ros/kinetic/lib/python2.7/dist-packages/roslib/packages.py:451: UnicodeWarning: Unicode equal comparison failed to convert both arguments to Unicode - interpreting them as being unequal
+  if resource_name in files:
+process[gripper-1]: started with pid [26548]
+process[Handing-2]: started with pid [26549]
+process[input-3]: started with pid [26550]
+process[fuzzy-4]: started with pid [26551]
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.519,-0.072,-0.78
+Enter the  command --->>    
+1
+力書き込み時---standing
+Fuzzy時---standing
+---------Fuzzy----------
+f = 0.854
+theta = 356.75
+(fx, fy, ek) = (0.853, -0.048, -0.78)
+(FX,FY) = (0.572,-0.634)
+(old_FX,old_FY) = (-0.12,-2.995)
+next--> x,y,ek=-0.434,-0.222,-44.691
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.434,-0.222,-0.78
+Enter the  command --->>    
+1
+力書き込み時---standing
+Fuzzy時---standing
+---------Fuzzy----------
+f = 0.871
+theta = 62.317
+(fx, fy, ek) = (0.405, 0.771, -0.78)
+(FX,FY) = (0.83,0.264)
+(old_FX,old_FY) = (0.572,-0.634)
+next--> x,y,ek=-0.284,-0.209,-44.691
+
+Enter the  command --->> 
+

@@ -1,0 +1,9 @@
+<launch>
+    
+    <node pkg="pre_experiment" name="Tracking_Pub" type="Tracking_Pub.py" /> 
+    <node pkg="pre_experiment" name="gripper"      type="gripper_l45.py" output="screen"/>
+    
+    <node pkg="pre_experiment" name="Handing"      type="Handing_l45.py" output="screen"/>
+    <node pkg="pre_experiment" name="input"        type="input.py" output="screen"/>
+    
+</launch>

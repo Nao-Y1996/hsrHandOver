@@ -1,0 +1,15 @@
+(cl:defpackage hsr_handing-srv
+  (:use )
+  (:export
+   "FUZZY"
+   "<FUZZY-REQUEST>"
+   "FUZZY-REQUEST"
+   "<FUZZY-RESPONSE>"
+   "FUZZY-RESPONSE"
+   "INPUT4HANDING"
+   "<INPUT4HANDING-REQUEST>"
+   "INPUT4HANDING-REQUEST"
+   "<INPUT4HANDING-RESPONSE>"
+   "INPUT4HANDING-RESPONSE"
+  ))
+

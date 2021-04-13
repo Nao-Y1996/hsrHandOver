@@ -1,0 +1,8 @@
+prefix=/home/naoyamada/CW/catkin_ws3/devel
+
+Name: sim_handing
+Description: Description of sim_handing
+Version: 0.0.0
+Cflags: -I/home/naoyamada/CW/catkin_ws3/src/sim_handing/include
+Libs: -L${prefix}/lib -lsim_handing
+Requires: roscpp rospy std_msgs

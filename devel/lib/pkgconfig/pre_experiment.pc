@@ -1,0 +1,8 @@
+prefix=/home/naoyamada/CW/catkin_ws3/devel
+
+Name: pre_experiment
+Description: Description of pre_experiment
+Version: 0.0.0
+Cflags: -I/home/naoyamada/CW/catkin_ws3/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

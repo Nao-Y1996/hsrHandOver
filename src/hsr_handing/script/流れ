@@ -1,0 +1,1352 @@
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---sitting
+now--> x,y,ek=-0.4,0.1,0.78
+Enter the  command --->>    
+0
+力書き込み時---sitting
+Fuzzy時---sitting
+---------Fuzzy----------
+f = 2.459
+theta = 88.008
+(fx, fy, ek) = (0.085, 2.457, 0.78)
+(FX,FY) = (-1.667,1.807)
+(old_FX,old_FY) = (0.0,2.712)
+next--> x,y,ek=-0.4,0.1,89.381
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---sitting
+now--> x,y,ek=-0.4,0.1,1.56
+Enter the  command --->>    
+0
+力書き込み時---sitting
+Fuzzy時---sitting
+---------Fuzzy----------
+f = 2.106
+theta = 0.0
+(fx, fy, ek) = (2.106, -0.0, 1.56)
+(FX,FY) = (0.023,2.106)
+(old_FX,old_FY) = (-1.667,1.807)
+next--> x,y,ek=-0.399,0.25,89.381
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---sitting
+now--> x,y,ek=-0.399,0.25,1.56
+Enter the  command --->>    
+0
+力書き込み時---sitting
+Fuzzy時---sitting
+---------Fuzzy----------
+f = 1.931
+theta = 319.81
+(fx, fy, ek) = (1.475, -1.246, 1.56)
+(FX,FY) = (1.262,1.461)
+(old_FX,old_FY) = (0.023,2.106)
+next--> x,y,ek=-0.297,0.4,89.381
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---sitting
+now--> x,y,ek=-0.297,0.4,1.56
+Enter the  command --->>    
+0
+力書き込み時---sitting
+Fuzzy時---sitting
+---------Fuzzy----------
+f = 2.944
+theta = 248.156
+(fx, fy, ek) = (-1.095, -2.733, 1.56)
+(FX,FY) = (2.721,-1.125)
+(old_FX,old_FY) = (1.262,1.461)
+next--> x,y,ek=-0.297,0.4,44.691
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---sitting
+now--> x,y,ek=-0.297,0.4,0.78
+Enter the  command --->>    
+0
+力書き込み時---sitting
+Fuzzy時---sitting
+---------Fuzzy----------
+f = 0.756
+theta = 270.0
+(fx, fy, ek) = (-0.0, -0.756, 0.78)
+(FX,FY) = (0.532,-0.537)
+(old_FX,old_FY) = (2.721,-1.125)
+next--> x,y,ek=-0.147,0.25,44.691
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---sitting
+now--> x,y,ek=-0.147,0.25,0.78
+Enter the  command --->>    
+0
+力書き込み時---sitting
+Fuzzy時---sitting
+---------Fuzzy----------
+f = 1.18
+theta = 57.516
+(fx, fy, ek) = (0.634, 0.996, 0.78)
+(FX,FY) = (-0.25,1.154)
+(old_FX,old_FY) = (0.532,-0.537)
+next--> x,y,ek=-0.147,0.3,44.691
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---sitting
+now--> x,y,ek=-0.147,0.3,0.78
+Enter the  command --->>    
+0
+力書き込み時---sitting
+Fuzzy時---sitting
+---------Fuzzy----------
+f = 0.693
+theta = 175.536
+(fx, fy, ek) = (-0.691, 0.054, 0.78)
+(FX,FY) = (-0.529,-0.448)
+(old_FX,old_FY) = (-0.25,1.154)
+next--> x,y,ek=-0.297,0.3,44.691
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.5,0.0,0.0
+Enter the  command --->>    
+1
+力書き込み時---standing
+Fuzzy時---standing
+---------Fuzzy----------
+f = 0.205
+theta = 182.729
+(fx, fy, ek) = (-0.205, -0.01, 0.0)
+(FX,FY) = (-0.205,-0.01)
+(old_FX,old_FY) = (0.0,0.0)
+next--> x,y,ek=-0.519,-0.001,0.0
+ 
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.519,-0.001,0.0
+Enter the  command --->>    
+1
+力書き込み時---standing
+Fuzzy時---standing
+---------Fuzzy----------
+f = 0.044
+theta = 206.681
+(fx, fy, ek) = (-0.04, -0.02, 0.0)
+(FX,FY) = (-0.04,-0.02)
+(old_FX,old_FY) = (-0.205,-0.01)
+next--> x,y,ek=-0.523,-0.002,0.0
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.523,-0.002,0.0
+Enter the  command --->>    
+1
+力書き込み時---standing
+Fuzzy時---standing
+---------Fuzzy----------
+f = 2.071
+theta = 268.957
+(fx, fy, ek) = (-0.038, -2.071, 0.0)
+(FX,FY) = (-0.038,-2.071)
+(old_FX,old_FY) = (-0.04,-0.02)
+next--> x,y,ek=-0.523,-0.002,-44.691
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.523,-0.002,-0.78
+Enter the  command --->>    
+1
+力書き込み時---standing
+Fuzzy時---standing
+---------Fuzzy----------
+f = 0.105
+theta = 319.668
+(fx, fy, ek) = (0.08, -0.068, -0.78)
+(FX,FY) = (0.009,-0.105)
+(old_FX,old_FY) = (-0.038,-2.071)
+next--> x,y,ek=-0.522,-0.014,-44.691
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.522,-0.014,-0.78
+Enter the  command --->>    
+1
+力書き込み時---standing
+Fuzzy時---standing
+---------Fuzzy----------
+f = 2.581
+theta = 269.892
+(fx, fy, ek) = (-0.005, -2.581, -0.78)
+(FX,FY) = (-1.819,-1.832)
+(old_FX,old_FY) = (0.009,-0.105)
+next--> x,y,ek=-0.522,-0.014,-89.381
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.522,-0.014,-1.56
+Enter the  command --->>    
+1
+力書き込み時---standing
+Fuzzy時---standing
+---------Fuzzy----------
+f = 4.0
+theta = 47.394
+(fx, fy, ek) = (2.708, 2.944, -1.56)
+(FX,FY) = (2.973,-2.676)
+(old_FX,old_FY) = (-1.819,-1.832)
+next--> x,y,ek=-0.522,-0.014,-44.691
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.522,-0.014,-0.78
+Enter the  command --->>    
+1
+力書き込み時---standing
+Fuzzy時---standing
+---------Fuzzy----------
+f = 0.099
+theta = 326.536
+(fx, fy, ek) = (0.082, -0.054, -0.78)
+(FX,FY) = (0.02,-0.096)
+(old_FX,old_FY) = (2.973,-2.676)
+next--> x,y,ek=-0.52,-0.025,-44.691
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.52,-0.025,-0.78
+Enter the  command --->>    
+1
+力書き込み時---standing
+Fuzzy時---standing
+---------Fuzzy----------
+f = 0.345
+theta = 317.535
+(fx, fy, ek) = (0.255, -0.233, -0.78)
+(FX,FY) = (0.017,-0.345)
+(old_FX,old_FY) = (0.02,-0.096)
+next--> x,y,ek=-0.519,-0.072,-44.691
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.519,-0.072,-0.78
+Enter the  command --->>    
+1
+力書き込み時---standing
+Fuzzy時---standing
+---------Fuzzy----------
+f = 2.998
+theta = 312.403
+(fx, fy, ek) = (2.021, -2.213, -0.78)
+(FX,FY) = (-0.12,-2.995)
+(old_FX,old_FY) = (0.017,-0.345)
+next--> x,y,ek=-0.519,-0.072,-89.381
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.519,-0.072,-1.56
+Enter the  command --->> [ERROR] [1579838016.996054]: bad callback: <function gripper_operating at 0x7f0959d25b18>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/home/kubotalab/catkin_ws3/src/hsr_handing/script/gripper2.py", line 254, in gripper_operating
+    whole_body.move_to_joint_positions({'head_tilt_joint': 0.15})
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/hsrb_interface/joint_group.py", line 476, in move_to_joint_positions
+    self._change_joint_state(goal_state)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/hsrb_interface/joint_group.py", line 422, in _change_joint_state
+    res = plan_service.call(req)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_service.py", line 495, in call
+    service_uri = self._get_service_uri(request)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_service.py", line 460, in _get_service_uri
+    raise ServiceException("unable to contact master")
+ServiceException: unable to contact master
+
+^C[fuzzy-4] killing on exit
+[input-3] killing on exit
+[Handing-2] killing on exit
+[gripper-1] killing on exit
+[input-3] escalating to SIGTERM
+[input-3] escalating to SIGKILL
+Shutdown errors:
+ * process[input-3, pid 25321]: required SIGKILL. May still be running.
+shutting down processing monitor...
+... shutting down processing monitor complete
+done
+<hsrb>~/catkin_ws3$ roslaunch hsr_handing handing.launch
+... logging to /home/kubotalab/.ros/log/20200124-002931_96d43b3a-3e40-11ea-8e1e-00306444518b/roslaunch-kubotalab-123-26535.log
+Checking log directory for disk usage. This may take awhile.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+
+started roslaunch server http://192.168.1.32:35635/
+
+SUMMARY
+========
+
+PARAMETERS
+ * /rosdistro: kinetic
+ * /rosversion: 1.12.14
+
+NODES
+  /
+    Handing (hsr_handing/Handing.py)
+    fuzzy (hsr_handing/fuzzy.py)
+    gripper (hsr_handing/gripper2.py)
+    input (hsr_handing/input.py)
+
+ROS_MASTER_URI=http://hsrb.local:11311
+
+/opt/ros/kinetic/lib/python2.7/dist-packages/roslib/packages.py:451: UnicodeWarning: Unicode equal comparison failed to convert both arguments to Unicode - interpreting them as being unequal
+  if resource_name in files:
+process[gripper-1]: started with pid [26548]
+process[Handing-2]: started with pid [26549]
+process[input-3]: started with pid [26550]
+process[fuzzy-4]: started with pid [26551]
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.519,-0.072,-0.78
+Enter the  command --->>    
+1
+力書き込み時---standing
+Fuzzy時---standing
+---------Fuzzy----------
+f = 0.854
+theta = 356.75
+(fx, fy, ek) = (0.853, -0.048, -0.78)
+(FX,FY) = (0.572,-0.634)
+(old_FX,old_FY) = (-0.12,-2.995)
+next--> x,y,ek=-0.434,-0.222,-44.691
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.434,-0.222,-0.78
+Enter the  command --->>    
+1
+力書き込み時---standing
+Fuzzy時---standing
+---------Fuzzy----------
+f = 0.871
+theta = 62.317
+(fx, fy, ek) = (0.405, 0.771, -0.78)
+(FX,FY) = (0.83,0.264)
+(old_FX,old_FY) = (0.572,-0.634)
+next--> x,y,ek=-0.284,-0.209,-44.691
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.5,0.0,0.0
+Enter the  command --->>    
+2
+力書き込み時---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 0.0
+theta = 0.0
+(fx, fy, ek) = (-0.0, -0.0, 0.0)
+(FX,FY) = (0.0,0.0)
+(old_FX,old_FY) = (0.0,0.0)
+next--> x,y,ek=-0.5,0.0,0.0
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.5,0.0,0.0
+Enter the  command --->>    
+2
+力書き込み時---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 0.649
+theta = 188.258
+(fx, fy, ek) = (-0.642, -0.093, 0.0)
+(FX,FY) = (-0.642,-0.093)
+(old_FX,old_FY) = (0.0,0.0)
+next--> x,y,ek=-0.6,-0.007,0.0
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.6,-0.007,0.0
+Enter the  command --->>    
+2
+力書き込み時---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 2.511
+theta = 64.518
+(fx, fy, ek) = (1.08, 2.267, 0.0)
+(FX,FY) = (1.08,2.267)
+(old_FX,old_FY) = (-0.642,-0.093)
+next--> x,y,ek=-0.6,-0.007,44.691
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.6,-0.007,0.78
+Enter the  command --->> [ERROR] [1579838940.026662]: bad callback: <function gripper_operating at 0x7fcbc1880b18>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/home/kubotalab/catkin_ws3/src/hsr_handing/script/gripper2.py", line 252, in gripper_operating
+    omni_base.go_abs(0.0, 0.0, 0.0, 300.0)#初期位置に戻る
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/hsrb_interface/mobile_base.py", line 147, in go_abs
+    self._send_goal_pose_and_wait(goal, timeout)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/hsrb_interface/mobile_base.py", line 201, in _send_goal_pose_and_wait
+    raise exceptions.MobileBaseError(msg)
+MobileBaseError: Failed to reach goal (Path plan timeout.(kNoPath))
+
+^C[fuzzy-4] killing on exit
+[input-3] killing on exit
+[Handing-2] killing on exit
+[gripper-1] killing on exit
+[input-3] escalating to SIGTERM
+[input-3] escalating to SIGKILL
+Shutdown errors:
+ * process[input-3, pid 26550]: required SIGKILL. May still be running.
+shutting down processing monitor...
+... shutting down processing monitor complete
+done
+<hsrb>~/catkin_ws3$ rqt
+^C<hsrb>~/catkin_ws3$ roslaunch hsr_handing handing.launch
+... logging to /home/kubotalab/.ros/log/20200124-002931_96d43b3a-3e40-11ea-8e1e-00306444518b/roslaunch-kubotalab-123-27769.log
+Checking log directory for disk usage. This may take awhile.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+
+started roslaunch server http://192.168.1.32:39045/
+
+SUMMARY
+========
+
+PARAMETERS
+ * /rosdistro: kinetic
+ * /rosversion: 1.12.14
+
+NODES
+  /
+    Handing (hsr_handing/Handing.py)
+    fuzzy (hsr_handing/fuzzy.py)
+    gripper (hsr_handing/gripper2.py)
+    input (hsr_handing/input.py)
+
+ROS_MASTER_URI=http://hsrb.local:11311
+
+/opt/ros/kinetic/lib/python2.7/dist-packages/roslib/packages.py:451: UnicodeWarning: Unicode equal comparison failed to convert both arguments to Unicode - interpreting them as being unequal
+  if resource_name in files:
+process[gripper-1]: started with pid [27779]
+process[Handing-2]: started with pid [27780]
+process[input-3]: started with pid [27781]
+process[fuzzy-4]: started with pid [27782]
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.6,-0.007,0.0
+Enter the  command --->>    
+2
+力書き込み時---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 0.0
+theta = 0.0
+(fx, fy, ek) = (-0.0, -0.0, 0.0)
+(FX,FY) = (0.0,0.0)
+(old_FX,old_FY) = (1.08,2.267)
+next--> x,y,ek=-0.6,-0.007,0.0
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.6,-0.007,0.0
+Enter the  command --->>    
+2
+力書き込み時---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 5.535
+theta = 66.102
+(fx, fy, ek) = (2.242, 5.06, 0.0)
+(FX,FY) = (2.242,5.06)
+(old_FX,old_FY) = (0.0,0.0)
+next--> x,y,ek=-0.6,-0.007,44.691
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.6,-0.007,0.78
+Enter the  command --->> [ERROR] [1579840041.124985]: bad callback: <function gripper_operating at 0x7fed98a00b18>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/home/kubotalab/catkin_ws3/src/hsr_handing/script/gripper2.py", line 252, in gripper_operating
+    omni_base.go_abs(0.0, 0.0, 0.0, 300.0)#初期位置に戻る
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/hsrb_interface/mobile_base.py", line 147, in go_abs
+    self._send_goal_pose_and_wait(goal, timeout)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/hsrb_interface/mobile_base.py", line 201, in _send_goal_pose_and_wait
+    raise exceptions.MobileBaseError(msg)
+MobileBaseError: Failed to reach goal (Path plan timeout.(kNoPath))
+
+
+Enter the  command --->> ^C[fuzzy-4] killing on exit
+[input-3] killing on exit
+[Handing-2] killing on exit
+[gripper-1] killing on exit
+[input-3] escalating to SIGTERM
+[input-3] escalating to SIGKILL
+Shutdown errors:
+ * process[input-3, pid 27781]: required SIGKILL. May still be running.
+shutting down processing monitor...
+... shutting down processing monitor complete
+done
+<hsrb>~/catkin_ws3$ roslaunch hsr_handing handing.launch
+... logging to /home/kubotalab/.ros/log/20200124-002931_96d43b3a-3e40-11ea-8e1e-00306444518b/roslaunch-kubotalab-123-28858.log
+Checking log directory for disk usage. This may take awhile.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+
+started roslaunch server http://192.168.1.32:46221/
+
+SUMMARY
+========
+
+PARAMETERS
+ * /rosdistro: kinetic
+ * /rosversion: 1.12.14
+
+NODES
+  /
+    Handing (hsr_handing/Handing.py)
+    fuzzy (hsr_handing/fuzzy.py)
+    gripper (hsr_handing/gripper2.py)
+    input (hsr_handing/input.py)
+
+ROS_MASTER_URI=http://hsrb.local:11311
+
+/opt/ros/kinetic/lib/python2.7/dist-packages/roslib/packages.py:451: UnicodeWarning: Unicode equal comparison failed to convert both arguments to Unicode - interpreting them as being unequal
+  if resource_name in files:
+process[gripper-1]: started with pid [28867]
+process[Handing-2]: started with pid [28868]
+process[input-3]: started with pid [28869]
+process[fuzzy-4]: started with pid [28870]
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.5,0.0,0.0
+Enter the  command --->>    
+2
+力書き込み時---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 2.446
+theta = 140.056
+(fx, fy, ek) = (-1.875, 1.571, 0.0)
+(FX,FY) = (-1.875,1.571)
+(old_FX,old_FY) = (0.0,0.0)
+next--> x,y,ek=-0.6,0.1,0.0
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.6,0.1,0.0
+Enter the  command --->>    
+2
+力書き込み時---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 1.85
+theta = 105.309
+(fx, fy, ek) = (-0.488, 1.785, 0.0)
+(FX,FY) = (-0.488,1.785)
+(old_FX,old_FY) = (-1.875,1.571)
+next--> x,y,ek=-0.74,0.25,0.0
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.74,0.25,0.0
+Enter the  command --->>    
+2
+力書き込み時---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 3.595
+theta = 0.583
+(fx, fy, ek) = (3.595, 0.037, 0.0)
+(FX,FY) = (3.595,0.037)
+(old_FX,old_FY) = (-0.488,1.785)
+next--> x,y,ek=-0.69,0.254,0.0
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.69,0.254,0.0
+[ERROR] [1579840543.239933]: Error processing request: Playing trajectory failed: /hsrb/arm_trajectory_controller(1), /hsrb/omni_base_controller(4)
+['Traceback (most recent call last):\n', '  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_service.py", line 625, in _handle_request\n    response = convert_return_to_response(self.handler(request), self.response_class)\n', '  File "/home/kubotalab/catkin_ws3/src/hsr_handing/script/Handing.py", line 136, in handing\n    whole_body.move_end_effector_pose(handing_point, ref_frame_id=\'head_pan_link\')\n', '  File "/opt/ros/kinetic/lib/python2.7/dist-packages/hsrb_interface/joint_group.py", line 579, in move_end_effector_pose\n    self._execute_trajectory(constrained_traj)\n', '  File "/opt/ros/kinetic/lib/python2.7/dist-packages/hsrb_interface/joint_group.py", line 1040, in _execute_trajectory\n    trajectory.wait_controllers(clients)\n', '  File "/opt/ros/kinetic/lib/python2.7/dist-packages/hsrb_interface/trajectory.py", line 502, in wait_controllers\n    raise exceptions.FollowTrajectoryError(text)\n', 'FollowTrajectoryError: Playing trajectory failed: /hsrb/arm_trajectory_controller(1), /hsrb/omni_base_controller(4)\n']
+Traceback (most recent call last):
+  File "/home/kubotalab/catkin_ws3/src/hsr_handing/script/input.py", line 37, in <module>
+    response = input_client2(input_key)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_service.py", line 435, in __call__
+    return self.call(*args, **kwds)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_service.py", line 515, in call
+    responses = transport.receive_once()
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 727, in receive_once
+    p.read_messages(b, msg_queue, sock) 
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_service.py", line 353, in read_messages
+    self._read_ok_byte(b, sock)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_service.py", line 336, in _read_ok_byte
+    raise ServiceException("service [%s] responded with an error: %s"%(self.resolved_name, str))
+rospy.service.ServiceException: service [/input_topic4handing] responded with an error: error processing request: Playing trajectory failed: /hsrb/arm_trajectory_controller(1), /hsrb/omni_base_controller(4)
+[ERROR] [1579840543.255937]: Received comm state PREEMPTING when in simple state DONE with SimpleActionClient in NS /hsrb/omni_base_controller/follow_joint_trajectory
+[input-3] process has died [pid 28869, exit code 1, cmd /home/kubotalab/catkin_ws3/src/hsr_handing/script/input.py __name:=input __log:=/home/kubotalab/.ros/log/20200124-002931_96d43b3a-3e40-11ea-8e1e-00306444518b/input-3.log].
+log file: /home/kubotalab/.ros/log/20200124-002931_96d43b3a-3e40-11ea-8e1e-00306444518b/input-3*.log
+[ERROR] [1579840588.827154]: service [/safe_pose_changer/change_joint] unavailable
+[ERROR] [1579840588.878367]: service [/safe_pose_changer/change_joint] unavailable
+^C[fuzzy-4] killing on exit
+[Handing-2] killing on exit
+[gripper-1] killing on exit
+[ERROR] [1579840591.031183]: bad callback: <function gripper_operating at 0x7faf5ba75b18>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/home/kubotalab/catkin_ws3/src/hsr_handing/script/gripper2.py", line 252, in gripper_operating
+    omni_base.go_abs(0.0, 0.0, 0.0, 300.0)#初期位置に戻る
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/hsrb_interface/mobile_base.py", line 147, in go_abs
+    self._send_goal_pose_and_wait(goal, timeout)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/hsrb_interface/mobile_base.py", line 194, in _send_goal_pose_and_wait
+    self.execute(goal)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/hsrb_interface/mobile_base.py", line 368, in execute
+    self._action_client.send_goal(action_goal)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/actionlib/simple_action_client.py", line 92, in send_goal
+    self.gh = self.action_client.send_goal(goal, self._handle_transition, self._handle_feedback)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/actionlib/action_client.py", line 553, in send_goal
+    return self.manager.init_goal(goal, transition_cb, feedback_cb)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/actionlib/action_client.py", line 466, in init_goal
+    self.send_goal_fn(action_goal)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 882, in publish
+    self.impl.publish(data)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 1041, in publish
+    raise ROSException("publish() to a closed topic")
+ROSException: publish() to a closed topic
+
+shutting down processing monitor...
+... shutting down processing monitor complete
+done
+<hsrb>~/catkin_ws3$ roslaunch hsr_handing handing.launch
+... logging to /home/kubotalab/.ros/log/20200124-002931_96d43b3a-3e40-11ea-8e1e-00306444518b/roslaunch-kubotalab-123-30242.log
+Checking log directory for disk usage. This may take awhile.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+
+started roslaunch server http://192.168.1.32:45559/
+
+SUMMARY
+========
+
+PARAMETERS
+ * /rosdistro: kinetic
+ * /rosversion: 1.12.14
+
+NODES
+  /
+    Handing (hsr_handing/Handing.py)
+    fuzzy (hsr_handing/fuzzy.py)
+    gripper (hsr_handing/gripper2.py)
+    input (hsr_handing/input.py)
+
+ROS_MASTER_URI=http://hsrb.local:11311
+
+/opt/ros/kinetic/lib/python2.7/dist-packages/roslib/packages.py:451: UnicodeWarning: Unicode equal comparison failed to convert both arguments to Unicode - interpreting them as being unequal
+  if resource_name in files:
+process[gripper-1]: started with pid [30252]
+process[Handing-2]: started with pid [30253]
+process[input-3]: started with pid [30254]
+process[fuzzy-4]: started with pid [30255]
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.69,0.254,0.0
+Enter the  command --->> g   
+2
+力書き込み時---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 0.0
+theta = 0.0
+(fx, fy, ek) = (-0.0, -0.0, 0.0)
+(FX,FY) = (0.0,0.0)
+(old_FX,old_FY) = (3.595,0.037)
+next--> x,y,ek=-0.69,0.254,0.0
+
+Enter the  command --->>    
+2
+力書き込み時---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 0.021
+theta = 333.76
+(fx, fy, ek) = (0.018, -0.009, 0.0)
+(FX,FY) = (0.018,-0.009)
+(old_FX,old_FY) = (0.0,0.0)
+next--> x,y,ek=-0.689,0.253,0.0
+
+Enter the  command --->> g
+Enter the  command --->> ^C[fuzzy-4] killing on exit
+[input-3] killing on exit
+[Handing-2] killing on exit
+[gripper-1] killing on exit
+[input-3] escalating to SIGTERM
+[input-3] escalating to SIGKILL
+Shutdown errors:
+ * process[input-3, pid 30254]: required SIGKILL. May still be running.
+shutting down processing monitor...
+... shutting down processing monitor complete
+done
+<hsrb>~/catkin_ws3$ roslaunch hsr_handing handing.launch
+... logging to /home/kubotalab/.ros/log/20200124-002931_96d43b3a-3e40-11ea-8e1e-00306444518b/roslaunch-kubotalab-123-30638.log
+Checking log directory for disk usage. This may take awhile.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+
+started roslaunch server http://192.168.1.32:37303/
+
+SUMMARY
+========
+
+PARAMETERS
+ * /rosdistro: kinetic
+ * /rosversion: 1.12.14
+
+NODES
+  /
+    Handing (hsr_handing/Handing.py)
+    fuzzy (hsr_handing/fuzzy.py)
+    gripper (hsr_handing/gripper2.py)
+    input (hsr_handing/input.py)
+
+ROS_MASTER_URI=http://hsrb.local:11311
+
+/opt/ros/kinetic/lib/python2.7/dist-packages/roslib/packages.py:451: UnicodeWarning: Unicode equal comparison failed to convert both arguments to Unicode - interpreting them as being unequal
+  if resource_name in files:
+process[gripper-1]: started with pid [30647]
+process[Handing-2]: started with pid [30648]
+process[input-3]: started with pid [30649]
+process[fuzzy-4]: started with pid [30650]
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.69,0.254,0.0
+Enter the  command --->>    
+2
+力書き込み時---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 3.436
+theta = 34.582
+(fx, fy, ek) = (2.829, 1.95, 0.0)
+(FX,FY) = (2.829,1.95)
+(old_FX,old_FY) = (0.0,0.0)
+next--> x,y,ek=-0.59,0.354,0.0
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.59,0.354,0.0
+Enter the  command --->>    
+2
+力書き込み時---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 0.632
+theta = 90.0
+(fx, fy, ek) = (-0.0, 0.632, 0.0)
+(FX,FY) = (0.0,0.632)
+(old_FX,old_FY) = (2.829,1.95)
+next--> x,y,ek=-0.59,0.504,0.0
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.59,0.504,0.0
+Enter the  command --->>    
+2
+力書き込み時---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 2.554
+theta = 346.203
+(fx, fy, ek) = (2.48, -0.609, 0.0)
+(FX,FY) = (2.48,-0.609)
+(old_FX,old_FY) = (0.0,0.632)
+/home/kubotalab/catkin_ws3/src/hsr_handing/script/fuzzy.py:126: RuntimeWarning: invalid value encountered in double_scalars
+  return np.dot(w_vec, then_vec)/np.sum(w_vec)
+nanが検出されたので更新しません
+next--> x,y,ek=-0.59,0.504,0.0
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.59,0.504,0.0
+Enter the  command --->>    
+2
+力書き込み時---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 0.637
+theta = 349.741
+(fx, fy, ek) = (0.627, -0.113, 0.0)
+(FX,FY) = (0.627,-0.113)
+(old_FX,old_FY) = (2.48,-0.609)
+next--> x,y,ek=-0.44,0.49,0.0
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.44,0.49,0.0
+Enter the  command --->>    
+2
+力書き込み時---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 2.532
+theta = 350.842
+(fx, fy, ek) = (2.5, -0.403, 0.0)
+(FX,FY) = (2.5,-0.403)
+(old_FX,old_FY) = (0.627,-0.113)
+next--> x,y,ek=-0.29,0.424,0.0
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.29,0.424,0.0
+Enter the  command --->>    
+2
+力書き込み時---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 1.349
+theta = 257.023
+(fx, fy, ek) = (-0.303, -1.314, 0.0)
+(FX,FY) = (-0.303,-1.314)
+(old_FX,old_FY) = (2.5,-0.403)
+next--> x,y,ek=-0.29,0.274,0.0
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.434,-0.222,-0.78
+Enter the  command --->>    
+1
+力書き込み時---standing
+Fuzzy時---standing
+---------Fuzzy----------
+f = 0.871
+theta = 62.317
+Enter the  command --->> (fx, fy, ek) = (0.405, 0.771, -0.78)
+(FX,FY) = (0.83,0.264)
+(old_FX,old_FY) = (0.572,-0.634)
+next--> x,y,ek=-0.284,-0.209,-44.691
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.5,0.0,0.0
+Enter the  command --->> Enter the  command --->>    
+2
+力書き込み時---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 0.0
+theta = 0.0
+(fx, fy, ek) = (-0.0, -0.0, 0.0)
+(FX,FY) = (0.0,0.0)
+(old_FX,Enter the  command --->> old_FY) = (0.0,0.0)
+next--> x,y,ek=-0.5,0.0,0.0
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.5,0.0,0.0
+Enter the  command --->>    
+Enter the  command --->> 2
+力書き込み時---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 0.649
+theta = 188.258
+(fx, fy, ek) = (-0.642, -0.093, 0.0)
+(FX,FY) = (-0.642,-0.093)
+(old_FX,old_FY) = (0.0,0.0)
+Enter the  command --->> next--> x,y,ek=-0.6,-0.007,0.0
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.6,-0.007,0.0
+Enter the  command --->Enter the  command --->> >    
+2
+力書き込み時---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 2.511
+theta = 64.518
+(fx, fy, ek) = (1.08, 2.267, 0.0)
+(FX,FY) = (1.08,2.267)
+(old_FXEnter the  command --->> ,old_FY) = (-0.642,-0.093)
+next--> x,y,ek=-0.6,-0.007,44.691
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.6,-0.007,0.78
+Enter the  commaEnter the  command --->> nd --->> [ERROR] [1579838940.026662]: bad callback: <function gripper_operating at 0x7fcbc1880b18>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/distEnter the  command --->> -packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/home/kubotalab/catkin_ws3/src/hsr_handing/script/gripper2.py", line 252, in gripper_operating
+    omni_base.go_abs(Enter the  command --->> 0.0, 0.0, 0.0, 300.0)#初期位置に戻る
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/hsrb_interface/moEnter the  command --->> bile_base.py", line 147, in go_abs
+    self._send_goal_pose_and_wait(goal, timeout)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/hsrb_interface/mobile_base.py", line 201, in _send_goal_pose_anEnter the  command --->> d_wait
+    raise exceptions.MobileBaseError(msg)
+MobileBaseError: Failed to reach goal (Path plan timeout.(kNoPath))
+
+^C[fuzzy-4] killing on exit
+[input-3] killing on exit
+[HandingEnter the  command --->> -2] killing on exit
+[gripper-1] killing on exit
+[input-3] escalating to SIGTERM
+[input-3] escalating to SIGKILL
+Shutdown errors:
+ * process[input-3, pid 26550]: requirEnter the  command --->> ed SIGKILL. May still be running.
+shutting down processing monitor...
+... shutting down processing monitor complete
+done
+<hsrb>~/catkin_ws3$ rqt
+^C<hsrb>~/catkin_ws3$ roslaunch hsr_hanEnter the  command --->> ding handing.launch
+... logging to /home/kubotalab/.ros/log/20200124-002931_96d43b3a-3e40-11ea-8e1e-00306444518b/roslaunch-kubotalab-123-27769.log
+Checking log directory for disk usage. This Enter the  command --->> may take awhile.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+
+started roslaunch server http://192.168.1.32:39045/
+
+SUMMARY
+========
+
+PARAMETERS
+ * /rosdistro: kinetic
+ * /rosversion: 1.12.14
+
+NODES
+  /
+    Handing (hsr_handing/Handing.py)
+    fuzzy (hsr_handing/fuzzy.py)
+Enter the  command --->>     gripper (hsr_handing/gripper2.py)
+    input (hsr_handing/input.py)
+
+ROS_MASTER_URI=http://hsrb.local:11311
+
+/opt/ros/kinetic/lib/python2.7/dist-packages/roslib/packages.py:451: UnicodeWarning: Unicode equal comparison failed to conveEnter the  command --->> rt both arguments to Unicode - interpreting them as being unequal
+  if resource_name in files:
+process[gripper-1]: started with pid [27779]
+process[Handing-2]: started with pid [2Enter the  command --->> 7780]
+process[input-3]: started with pid [27781]
+process[fuzzy-4]: started with pid [27782]
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.6,-0.007,0.0
+Enter the  command --->>    
+2
+力書きEnter the  command --->> 込み時---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 0.0
+theta = 0.0
+(fx, fy, ek) = (-0.0, -0.0, 0.0)
+(FX,FY) = (0.0,0.0)
+(old_FX,old_FY) = (1.08,2.267Enter the  command --->> )
+next--> x,y,ek=-0.6,-0.007,0.0
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.6,-0.007,0.0
+Enter the  command --->>    
+2
+力書き込み時---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 5.535
+Enter the  command --->> theta = 66.102
+(fx, fy, ek) = (2.242, 5.06, 0.0)
+(FX,FY) = (2.242,5.06)
+(old_FX,old_FY) = (0.0,0.0)
+next--> x,y,ek=-0.6,-0.007,44.691
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---croEnter the  command --->> ss legged
+now--> x,y,ek=-0.6,-0.007,0.78
+Enter the  coEnter the  command --->> mmand --->> [ERROR] [1579840041.124985]: bad callback: <function Enter the  command --->> gripper_Enter the  command --->> operating atEnter the  command --->>  0x7fed98a00b18>
+Traceback (most Enter the  command --->> recent call last):
+ Enter the  command --->>  File "/opt/ros/kinetic/lib/Enter the  command --->> python2.7/dist-packages/rospEnter the  command --->> yEnter the  command --->> /topics.py", line 750, in _Enter the  command --->> invoke_callback
+    cb(msg)Enter the  command --->> 
+  File "/home/kubotalab/catEnter the  command --->> kin_ws3/src/hsr_handing/scrEnter the  command --->> ipt/gripper2.py", line 252, iEnter the  command --->> n Enter the  command --->> gripper_operating
+    omni_Enter the  command --->> base.go_abs(0.0, Enter the  command --->> 0.0, 0.0, 300.0)#初期��Enter the  command --->> �置に戻Enter the  command --->> る
+  File "/optEnter the  command --->> /ros/kinetic/lib/python2.7/dist-packaEnter the  command --->> ges/hsrb_interface/mobile_Enter the  command --->> base.py", line 147, in go_abEnter the  command --->> s
+    self._send_goal_pose_and_Enter the  command --->> wEnter the  command --->> ait(goal, timeout)
+  File "Enter the  command --->> /opt/ros/kinetic/lib/pythonEnter the  command --->> 2.7/dist-packages/hsrb_interEnter the  command --->> face/mobile_base.py", line 201Enter the  command --->> , in _send_goal_pose_and_waitEnter the  command --->> 
+ Enter the  command --->>    raise exceptions.MobileBEnter the  command --->> aseError(msg)
+MobEnter the  command --->> ileBaseError: Failed to rEnter the  command --->> each goal Enter the  command --->> (Path plan timeEnter the  command --->> out.(kNoPath))
+
+
+Enter the  commanEnter the  command --->> d --->> ^C[fuzzy-4] kilEnter the  command --->> ling on exit
+[input-3] killing on Enter the  command --->> exit
+[Handing-2] killing on exit
+[Enter the  command --->> gEnter the  command --->> ripper-1] killing on exit
+[Enter the  command --->> input-3] escalating to SIGTEnter the  command --->> ERM
+[input-3] escalating to Enter the  command --->> SIGKILL
+Shutdown errors:
+ * proEnter the  command --->> cess[input-3, pid 27781]: required SIGKILL. May still be running.
+shutting down processing monitor...
+... shutting Enter the  command --->> down processing monitor complete
+doEnter the  command --->> ne
+<hsrb>~/catkin_ws3$ roslaunch hsr_handing handing.launch
+... logging to /home/kubotalab/.ros/log/2Enter the  command --->> 0200124-0029Enter the  command --->> 31_96d43b3a-3e40-11ea-8e1e-00306444518b/roslaunch-kubotalab-123-28858.log
+Checking log directory for diEnter the  command --->> sk usage. This may take awhile.
+Press Ctrl-C to interrupt
+Done chEnter the  command --->> ecking log file disk usage. Usage is <1GB.
+
+started roslaunch server htEnter the  command --->> tp://192.168.1.32:46221/
+
+SUMMARY
+========
+Enter the  command --->> 
+PARAMETERS
+ * /rosdistro: kinetic
+ * /rosEnter the  command --->> version: 1.12.14
+
+NODES
+  /
+    Handing (hsr_handing/Handing.py)
+    fuzzy (hsr_handing/fuzzy.py)
+    gripper (hsr_handing/griEnter the  command --->> pper2.py)
+    input (hsr_handing/input.Enter the  command --->> py)
+
+ROS_MASTER_URI=http://hsrb.local:11311
+
+/opt/ros/kinetic/lib/pEnter the  command --->> ython2.7/dist-packages/rosliEnter the  command --->> b/packages.py:451: UnicodeEnter the  command --->> Warning: Unicode equal compaEnter the  command --->> rison failed to convert bothEnter the  command --->>  arguments to Unicode - interpreEnter the  command --->> ting them as being unequal
+  if Enter the  command --->> resource_name in Enter the  command --->> files:
+process[gripper-1]: started with pid [28867]
+process[Handing-2]: Enter the  command --->> started with pid [28868]
+process[inpEnter the  command --->> ut-3]: started with pid [28869]
+process[fuzzy-Enter the  command --->> 4]: sEnter the  command --->> tarted with pid [28870]
+Enter the  command --->> Enter the  command --->> g
+Enter the  command --->> h
+手��Enter the  command --->> �し時---cross legged
+now--> x,y,ek=-0.5,0.0,0.0
+Enter the  command --->>    
+2
+力書き込み時---cross
+FuzEnter the  command --->> zy時---cross
+---------Fuzzy----------
+f = 2.446
+theta = 1Enter the  command --->> 40.056
+(fx, fy, ek) = (-1.Enter the  command --->> 875, 1.571, 0.0)
+(FEnter the  command --->> X,FY) = (-1.875,1.571)
+(old_FX,old_FY) = (0.0,0.0)Enter the  command --->> 
+next--> x,y,ek=-0.6,0.1,0.0
+
+Enter the  command --->Enter the  command --->> >Enter the  command --->>  g
+EnterEnter the  command --->>  the  comEnter the  command --->> mEnter the  command --->> and --->> hEnter the  command --->> 
+手渡し時---cross lEnter the  command --->> egged
+now--> x,y,ek=-0.6Enter the  command --->> ,Enter the  command --->> 0.1,0.Enter the  command --->> 0
+EnEnter the  command --->> ter the  command --->>    
+2
+力書��Enter the  command --->> �込み時---cross
+Fuzzy時---croEnter the  command --->> ss
+---------Fuzzy----------
+f = 1.85
+tEnter the  command --->> heta = 105.309
+(fx, fy, ek) = (-0Enter the  command --->> .Enter the  command --->> 488, 1.785, 0.0)
+(FX,FY) = (-0.488,1.78Enter the  command --->> 5Enter the  command --->> )
+(old_FX,old_FY) = (-1.875,1.571)
+next--> x,y,ek=-0.74,0.25,0.0
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.74,0.25,0.0
+Enter the  comEnter the  command --->> mand --->>    
+2
+力書き込Enter the  command --->> み時---cross
+Fuzzy時---cross
+---------FuzzEnter the  command --->> y----------
+f = 3.595
+theta = 0.583
+(fx, fy, Enter the  command --->> ek) = (3.595, 0.037, 0.0)
+(FX,FY) = (3.595,Enter the  command --->> 0.037)
+(old_FX,old_FY) = (-0.488,1.785)
+nexEnter the  command --->> t--> x,y,ek=-0.69,0.254,0.0Enter the  command --->> 
+
+Enter the  command --->> Enter the  command --->> g
+Enter the  command --->> hEnter the  command --->> 
+手渡し時---cross legged
+nEnter the  command --->> ow--> x,y,ek=-0.69,0.254,0.0
+Enter the  command --->> [EEnter the  command --->> RROR] [1579840543.239933]: Enter the  command --->> Error processing Enter the  command --->> request: Playing trajectoEnter the  command --->> ry faileEnter the  command --->> d: /hsrb/armEnter the  command --->> _trajectory_controller(1), /hsrb/Enter the  command --->> omni_base_controllerEnter the  command --->> (4)
+['Traceback (most recent cEnter the  command --->> all last):\n', '  File "/opt/rosEnter the  command --->> /Enter the  command --->> kinetic/lib/python2.7/dist-Enter the  command --->> packages/rospy/impl/tcpros_Enter the  command --->> service.py", line 625, in _hEnter the  command --->> andle_request\n    response = Enter the  command --->> convert_return_to_response(seEnter the  command --->> lfEnter the  command --->> .handler(request), self.resEnter the  command --->> ponse_class)\n', Enter the  command --->> '  File "/home/kubotalab/Enter the  command --->> catkin_ws3Enter the  command --->> /src/hsr_handinEnter the  command --->> g/script/Handing.py", line 136, inEnter the  command --->>  handing\n    whole_bodEnter the  command --->> y.move_end_effector_pose(hanEnter the  command --->> ding_point, ref_frame_id=\'head_paEnter the  command --->> nEnter the  command --->> _link\')\n', '  File "/opt/Enter the  command --->> ros/kinetic/lib/python2.7/dEnter the  command --->> ist-packages/hsrb_interface/Enter the  command --->> joint_group.py", line 579, in mEnter the  command --->> ove_end_effector_pose\n    self._execute_trajectory(constrained_traj)\n', '  File "/opt/ros/kinetic/lib/python2.7/dEnter the  command --->> ist-packages/hsrb_interface/joint_gEnter the  command --->> roup.py", line 1040, in _execute_trajectory\n    trajectory.wait_controllers(clients)\n', '  File "/oEnter the  command --->> pt/ros/kinetEnter the  command --->> ic/lib/python2.7/dist-packages/hsrb_interface/trajectory.py", line 502, in wait_controllers\n    raise Enter the  command --->> exceptions.FollowTrajectoryError(text)\n', 'FollowTrajectoryErrorEnter the  command --->> : Playing trajectory failed: /hsrb/arm_trajectory_controller(1), /hsrb/omni_base_controller(4)\n']
+TracebEnter the  command --->> ack (most recent call last):
+  File "/home/kubotaEnter the  command --->> lab/catkin_ws3/src/hsr_handing/script/input.py", line 37, in <module>
+    response = input_client2(input_key)
+  File "/opt/Enter the  command --->> ros/kinetic/lib/python2.7/dist-packages/roEnter the  command --->> spy/impl/tcpros_service.py", line 435, in __call__
+    return self.Enter the  command --->> caEnter the  command --->> lEnter the  command --->> l(*args, **kwds)
+  File "/opt/ros/kinetic/lib/python2Enter the  command --->> .7/dist-packages/rospy/impEnter the  command --->> l/tcpros_service.py", line 5Enter the  command --->> 15, in call
+    responses = Enter the  command --->> transport.receive_once()
+  File Enter the  command --->> "/opt/ros/kinetic/lib/python2.7/Enter the  command --->> dist-packages/rosEnter the  command --->> py/impl/tcpros_base.py", line 727, in receive_once
+    p.read_messages(bEnter the  command --->> , msg_queue, sock) 
+  File "/opt/rosEnter the  command --->> /kinetic/lib/python2.7/dist-packages/rospy/impEnter the  command --->> l/tcpEnter the  command --->> ros_service.py", line 353, in read_messages
+    self._reaEnter the  command --->> d_ok_byte(b, sock)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/impl/tcpros_service.py", line 336, in _read_ok_byEnter the  command --->> te
+    raise ServiceException("service [%s] responEnter the  command --->> ded with an error: %s"%(self.resolvedEnter the  command --->> _name, str))
+rospy.service.ServiceException: serviEnter the  command --->> cEnter the  command --->> e [/input_topic4handing] responded with an error: erEnter the  command --->> rEnter the  command --->> or proceEnter the  command --->> ssing reqEnter the  command --->> uEnter the  command --->> est: PlayinEnter the  command --->> g trajectory failed: /hEnter the  command --->> srb/arm_trajectory_contrEnter the  command --->> oEnter the  command --->> ller(1Enter the  command --->> ), /Enter the  command --->> hsrb/omni_base_controller(4)
+[ERROR] Enter the  command --->> [1579840543.255937]: Received comEnter the  command --->> m state PREEMPTING when in simple statEnter the  command --->> e DONE with SimpleActionClient inEnter the  command --->>  Enter the  command --->> NS /hsrb/omni_base_controller/follow_joEnter the  command --->> iEnter the  command --->> nt_trajectory
+[input-3] process has died [pid 28869, exit code 1, cmd /home/kubotalab/catkin_ws3/src/hsr_handing/script/input.py __name:=input __log:=/home/kubotalab/.ros/log/20200124-002931_Enter the  command --->> 96d43b3a-3e40-11ea-8e1e-00306Enter the  command --->> 444518b/input-3.log].
+log file: /home/kubotalEnter the  command --->> ab/.ros/log/20200124-002931_96d43b3a-3e40-11eEnter the  command --->> a-8e1e-00306444518b/input-3*.log
+[ERROR] [1Enter the  command --->> 579840588.827154]: service [/safe_pose_chanEnter the  command --->> ger/change_joint] unavailabEnter the  command --->> le
+[ERROR] [1579840588.8783Enter the  command --->> 67]: service [/safe_pose_chaEnter the  command --->> nger/change_joint] unavailaEnter the  command --->> ble
+^C[fuzzy-4] killing on exEnter the  command --->> itEnter the  command --->> 
+[Handing-2] killing on exiEnter the  command --->> t
+[gripper-1] kilEnter the  command --->> ling on exit
+[ERROR] [157Enter the  command --->> 9840591.03Enter the  command --->> 1183]: bad callbEnter the  command --->> ack: <function gripper_operating at Enter the  command --->> 0x7faf5ba75b18>
+TracebackEnter the  command --->>  (most recent call last):
+  Enter the  command --->> File "/opt/ros/kinetic/lib/pEnter the  command --->> yEnter the  command --->> thon2.7/dist-packages/rospyEnter the  command --->> /topics.py", line 750, in _Enter the  command --->> invoke_callback
+    cb(msg)
+Enter the  command --->>   File "/home/kubotalab/catEnter the  command --->> kin_ws3/src/hsr_handing/scripEnter the  command --->> t/Enter the  command --->> gripper2.py", line 252, in Enter the  command --->> gripper_operatingEnter the  command --->> 
+    omni_base.go_abs(0.0Enter the  command --->> , 0.0, 0.Enter the  command --->> 0, 300.0)#初期Enter the  command --->> 位置に戻る
+  File "/opt/ros/kinEnter the  command --->> etic/lib/python2.7/dist-pEnter the  command --->> ackages/hsrb_interface/mobile_basEnter the  command --->> e.py", line 147, in go_abs
+   Enter the  command --->>  Enter the  command --->> self._send_goal_pose_and_waEnter the  command --->> it(goal, timeout)
+  File "/Enter the  command --->> opt/ros/kinetic/lib/python2.Enter the  command --->> 7/dist-packages/hsrb_interfacEnter the  command --->> e/mobile_base.py", lineEnter the  command --->>  194, inEnter the  command --->>  _send_goal_pose_and_wait
+ Enter the  command --->>    self.execute(gEnter the  command --->> oal)
+  File "/opt/ros/kinEnter the  command --->> etic/lib/pEnter the  command --->> ython2.7/dist-Enter the  command --->> packages/hsrb_interface/mobile_baseEnter the  command --->> .py", line 368, in execuEnter the  command --->> te
+    self._action_client.send_gEnter the  command --->> oal(action_goal)
+  File "/opt/rEnter the  command --->> oEnter the  command --->> s/kinetic/lib/python2.7/disEnter the  command --->> t-packages/actionlib/simpleEnter the  command --->> _action_client.py", line 92,Enter the  command --->>  in send_goal
+    self.gh = seEnter the  command --->> lf.action_client.send_goal(goal, self._handle_transition, self._handle_feedback)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/actionlib/actiEnter the  command --->> on_client.py", line 553, in send_goal
+    return self.manager.init_goal(goal, transition_cb, feedback_cb)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/actionlib/action_client.py", line 466, in init_goal
+    self.send_goal_fn(action_goal)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 882, in publish
+    self.impl.publish(data)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 1041, in publish
+    raise ROSException("publish() to a closed topic")
+ROSException: publish() to a closed topic
+Enter the  command --->> 
+shutting down processing monitor...
+... shutting down processing monitor complete
+done
+<hsrb>~/catkin_ws3$ roslaunch hsr_handing handing.launch
+... logging to /home/kubotalab/.ros/log/20200124-002931_96d43b3a-3e40-1Enter the  command --->> 1ea-8e1e-00306444518b/roslaunch-kubotalab-123-30242.log
+Checking log directory for disk usage. This may take awhile.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+
+started roslauEnter the  command --->> nch server http://192.168.1.32:45559/
+
+SUMMARY
+Enter the  command --->> ========
+
+PARAMETERS
+ * /rosdistro: kinetic
+ * /rosversion: 1.12.14
+
+NODES
+  /
+    Handing (hsr_handing/Handing.py)
+    fuzzy (hsr_handing/fuzzy.py)
+    gripper (hsr_handing/gripper2.py)
+    input (hsrEnter the  command --->> _handing/input.py)
+
+ROS_MASTER_URI=http://hsrb.local:11311
+
+/opt/ros/kinetic/lib/python2.7/dist-packages/roslib/packages.py:451: UnicodeWarEnter the  command --->> ning: Unicode equal comparison failed to convert both arguments to Unicode - interpreting them as beinEnter the  command --->> g unequal
+  if resource_name in files:
+prEnter the  command --->> ocess[gripper-1]: started with pid [30252]
+process[HanEnter the  command --->> ding-2]: started with pid [30253]
+process[input-3]: started with pid [30254]
+Enter the  command --->> process[fuzzy-4]: started with pid [30255]
+Enter the  command --->> g
+Enter the  comEnter the  command --->> mand --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.69,0.254,0.0
+EnterEnter the  command --->>  the  command --->> g   
+2
+力書き込み時---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 0.0
+thetaEnter the  command --->>  = 0.0
+(fx, fy, ek) = (-0.0, -0.0, 0.0)
+(FX,FY) = (0.0,0.0)
+(old_FX,old_FY) = (3.595,0.037)
+next-->Enter the  command --->>  x,y,ek=-0.69,0.254,0.0
+
+Enter the  command --->>    
+2
+力書き込み時---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 0.021
+theta = 333.76
+(fx, fy, ek) = (0.018, -0.009, 0.0)
+(FX,FY) = (0.018,-0.0Enter the  command --->> 09)
+(old_FX,old_FY) = (0.0,0.0)
+next--> x,y,ek=-0.689,0.253,0.0
+
+Enter the  command --->> g
+Enter the  command --->> ^C[fuzzy-4] killing on exit
+[inputEnter the  command --->> -3] killing on exit
+[Handing-2] killing on exit
+[gripper-1] killing on exit
+[input-3] escalating to SIGTERM
+[input-3] escalating to SIGKILL
+Shutdown errors:
+Enter the  command --->>  * process[input-3, pid 30254]: required SIGKILL. May still be running.
+shutting down processing monitor...
+Enter the  command --->> ... shutting down processing monitor complete
+done
+<hsrb>~/catkin_ws3$ roslaunch hsr_handing handing.launch
+Enter the  command --->> ... logging to /home/kubotalab/.ros/log/20200124-002931_96d43b3Enter the  command --->> a-3e40-11ea-8e1e-00306444518b/roslaunch-kubotalab-123-30638.log
+Checking log directory for disk usage. Enter the  command --->> This may take awhile.
+Press Enter the  command --->> Ctrl-C to interrupt
+Done cheEnter the  command --->> cking log file disk usage. Usage is <1GB.
+
+started roslaunch server http://192.168.1.32:37Enter the  command --->> 303/
+
+SUMMARY
+========
+
+PARAMETERS
+Enter the  command --->>  * /rosdistro: kinetic
+ * /rosversion: 1.12.14
+
+NODES
+  /
+    Handing (hsr_handing/Handing.py)
+    fuEnter the  command --->> zzy (hsr_hanEnter the  command --->> ding/fuzzy.py)
+    gripper (hsr_handing/gripper2.py)
+    input (hsr_handing/input.py)
+
+ROS_MASTER_URI=hEnter the  command --->> ttp://hsrb.local:11311
+
+/opt/ros/kinetic/lib/python2.7/dist-packaEnter the  command --->> ges/roslib/packages.py:451: UnicodeWarning: Unicode equal comparison failed to convert both arguments to Enter the  command --->> Unicode - interpreting them as being unequal
+  ifEnter the  command --->>  resource_name in files:
+process[gripper-1]: started with pid [30647]
+process[Handing-2]: Enter the  command --->> started with pid [30648]
+process[input-3]: started with Enter the  command --->> pid [30649]
+process[fuzzy-4]: started with pid [30650]
+Enter the  command --->> g
+Enter the  command --->>Enter the  command --->>  h
+手渡し時---cross legged
+now--> x,y,ek=-0Enter the  command --->> .69,0.254,0.0
+Enter the  command --->>    
+2
+力書き込み時---cross
+Fuzzy時---cross
+---------Fuzzy--------Enter the  command --->> --
+f = 3.436
+theta = 34.582
+(fx, fy, ek) = (2.829, 1.95, 0.0)
+(FX,FY) = (2.829,1.95)
+(old_FX,old_Enter the  command --->> FY) = (0.0,0.0)
+next--> x,y,ek=-0.59,0.354,0.0
+
+Enter the  command --->> g
+Enter the  command --->> h
+手Enter the  command --->> 渡し時---cross legged
+now--> x,y,ek=-0.59,0.354,0.0
+Enter the  coEnter the  command --->> mmand --->>    
+2
+力書き込み時---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 0.632
+theta = Enter the  command --->> 90.0
+(fx, fy, ek) = (-0.0, 0.632, 0Enter the  command --->> .0)
+(FX,FY) = (0.0,0.632)
+(old_FX,old_FY) = (2.829,1.95)
+next--> x,y,ek=-0.59,0.504,0.0
+
+EntEnter the  command --->> er the  command --->> g
+EnteEnter the  command --->> r the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.59,0.504,0.0
+Enter the  cEnter the  command --->> ommand --->>    
+2
+力書き込み時---cross
+Fuzzy時Enter the  command --->> ---cross
+---------Fuzzy----------
+f = 2.55Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> 4
+theta = 346.203
+(fx, fy, ek) = (2.48, -0.609, 0.0)
+(FX,FY) = (2.48,-0.609)
+(old_FX,old_FYEnter the  command --->> ) = (0.0,0.632)
+/home/kubotalab/catkin_ws3/src/hsr_handing/script/fuzzy.py:126: RuntimeWarning: invalid value encountered in double_scalars
+  return np.dot(w_vec, then_vec)Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> /np.sum(w_vec)
+nanが検出Enter the  command --->> されたので更新しません
+next--> x,y,ek=-0.59,0.504,0.0
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legEnter the  command --->> ged
+now--> x,y,ek=-0.59,0.504,0.0
+Enter the  command --->>    
+2
+力書き込み時---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 0.637
+theta = 349.741
+(fx, fy, ek) = (0.627, -0.113, 0.0)
+(FX,FY) = (0.627,-0.113)
+(old_FX,old_FY) = (2.48,-0.609Enter the  command --->> )
+next--> x,y,ek=-0.44,0.49,0.0
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.44,0.49,0.0
+Enter the  command --->>    
+2
+力書き込み時Enter the  command --->> ---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 2.532
+theta = 350.842
+(fx, fy, ek) = (2.5, -0.403, 0.0)
+(FX,FY) = (2.5,-0.403)
+(old_FX,oEnter the  command --->> ld_FY) = (0.627,-0.113)
+next--> x,y,ek=-0.29,0.424,0.0
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+nowEnter the  command --->> --> x,y,ek=-0.29,0.424,0.0
+Enter the  command --->>    
+Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> Enter the  command --->> 
+
